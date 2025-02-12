@@ -20,6 +20,7 @@ public class FormChinh extends javax.swing.JFrame {
      */
     public FormChinh() {
         initComponents();
+        //HEO
     }
 
     /**
